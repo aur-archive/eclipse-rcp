@@ -1,0 +1,36 @@
+2015-03-01 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.4.2-1 :
+    Upgraded to Eclipse Luna (v4.4.2) SR2
+
+
+2015-02-24 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.4.0-2 :
+    Upgraded to Eclipse Luna (v4.4) SR1
+
+
+ 2014-07-03 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.4.0-1 :
+    Upgraded to Eclipse Luna (v4.4)
+    Use a patched eclipse.ini file to force the use of webkit and to have more comfortable memory settings
+    Got rid of GDK_NATIVE_WINDOWS=true as this seems not necessary anymore (see Ubuntu Eclipse package)
+
+
+2013-10-08 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.3.1-1 :
+    Upgraded Eclipse package to Service Release (SR) 1
+
+
+2013-07-02 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.3.0-2 :
+    Cleaned up package dependencies, refactored PKGBUILD, posixfied eclipse.sh
+
+
+2013-07-01 Michael Rueegg <rueegg.michael@gmail.com>
+
+	* 4.3.0-1 :
+    Initial version of Eclipse RCP for Kepler (v4.3)
